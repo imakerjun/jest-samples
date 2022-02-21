@@ -1,0 +1,28 @@
+{
+  "name": "jest-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imakerjun/jest-samples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imakerjun/jest-samples/issues"
+  },
+  "homepage": "https://github.com/imakerjun/jest-samples#readme",
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "@babel/core": "^7.17.5",
+    "@babel/plugin-transform-modules-commonjs": "^7.16.8",
+    "@babel/plugin-transform-runtime": "^7.17.0",
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.5.1"
+  }
+}
